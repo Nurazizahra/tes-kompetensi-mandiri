@@ -1,0 +1,109 @@
+{
+    "menuData": [
+        {
+            "id": "6c7bqjgi84kcowlqdz",
+            "name": "Nasi Goreng Spesial",
+            "description": "Nasi goreng spesial dengan campuran bumbu rempah pilihan dan daging ayam serta udang segar.",
+            "pictureId": "https://restaurant-api.dicoding.dev/images/medium/41",
+            "price": "Rp 35.000"
+        },
+        {
+            "id": "ljx8i0qu2uckcowlqdz",
+            "name": "Burger Double Cheese",
+            "description": "Burger lezat dengan dua lapis keju cheddar, daging sapi panggang, sayuran segar, dan saus spesial.",
+            "pictureId": "https://restaurant-api.dicoding.dev/images/medium/07",
+            "price": "Rp 45.000"
+        },
+        {
+            "id": "fe8bbxoazddkcowlqdz",
+            "name": "Pangsit Goreng Crispy",
+            "description": "Pangsit goreng dengan kulit yang renyah dan isian daging cincang yang gurih.",
+            "pictureId": "https://restaurant-api.dicoding.dev/images/medium/29",
+            "price": "Rp 25.000"
+        },
+        {
+            "id": "ik1zljmlf68kcowlqdz",
+            "name": "Ayam Geprek Pedas Mantap",
+            "description": "Ayam goreng tepung yang digeprek dengan sambal pedas yang menggugah selera.",
+            "pictureId": "https://restaurant-api.dicoding.dev/images/medium/38",
+            "price": "Rp 30.000"
+        },
+        {
+            "id": "9jpuzkm6n6jkcowlqdz",
+            "name": "Pizza Pepperoni",
+            "description": "Pizza dengan topping pepperoni, keju mozarella leleh, dan saus tomat spesial.",
+            "pictureId": "https://restaurant-api.dicoding.dev/images/medium/40",
+            "price": "Rp 50.000"
+        },
+        {
+            "id": "cpl5jpsnuqkkcowlqdz",
+            "name": "Martabak Manis Spesial",
+            "description": "Martabak manis dengan pilihan topping cokelat, keju, kacang, dan meses.",
+            "pictureId": "https://restaurant-api.dicoding.dev/images/medium/08",
+            "price": "Rp 40.000"
+        },
+        {
+            "id": "iqtf9hmdzvbkcowlqdz",
+            "name": "Sushi Set Deluxe",
+            "description": "Set sushi dengan berbagai jenis nigiri dan roll sushi.",
+            "pictureId": "https://restaurant-api.dicoding.dev/images/medium/32",
+            "price": "Rp 60.000"
+        },
+        {
+            "id": "8i06gqcc2dpkcowlqdz",
+            "name": "Sate Padang Pilihan",
+            "description": "Sate Padang dengan daging sapi pilihan dan bumbu kacang khas Padang yang kaya rasa.",
+            "pictureId": "https://restaurant-api.dicoding.dev/images/medium/45",
+            "price": "Rp 35.000"
+        },
+        {
+            "id": "wf5o19xhxxkcowlqdz",
+            "name": "Pasta Carbonara Creamy",
+            "description": "Pasta spaghetti dengan saus carbonara creamy, daging bacon cincang, dan parmesan melted.",
+            "pictureId": "https://restaurant-api.dicoding.dev/images/medium/04",
+            "price": "Rp 55.000"
+        },
+        {
+            "id": "gsl8mbk5e6ndwjvhp3",
+            "name": "Soto Ayam Spesial",
+            "description": "Soto ayam dengan kuah kaldu ayam yang gurih, potongan daging ayam lembut.",
+            "pictureId": "https://restaurant-api.dicoding.dev/images/medium/31",
+            "price": "Rp 28.000"
+        },
+        {
+            "id": "q1lyoi52ddkcowlqdz",
+            "name": "Nasi Uduk Komplit",
+            "description": "Nasi uduk dengan lauk-pauk lengkap seperti ayam goreng, telur dadar, tempe bacem, sambal kacang, dan kerupuk.",
+            "pictureId": "https://restaurant-api.dicoding.dev/images/medium/30",
+            "price": "Rp 20.000"
+        },
+        {
+            "id": "qypfvqgllouofacug7",
+            "name": "Gado-Gado Spesial",
+            "description": "Gado-gado dengan sayuran segar seperti kubis, kacang panjang, tauge, dan tahu goreng.",
+            "pictureId": "https://restaurant-api.dicoding.dev/images/medium/32",
+            "price": "Rp 25.000"
+        },
+        {
+            "id": "eqem8nq7uz8zefph92",
+            "name": "Sate Ayam Madura",
+            "description": "Sate ayam dengan cita rasa khas Madura, dimasak dengan arang.",
+            "pictureId": "https://restaurant-api.dicoding.dev/images/medium/33",
+            "price": "Rp 30.000"
+        },
+        {
+            "id": "afmhot3iyk8t80zq82",
+            "name": "Nasi Kuning Spesial",
+            "description": "Nasi kuning dengan lauk-pauk komplet seperti ayam goreng, telur dadar, kering tempe, sambal, dan kerupuk.",
+            "pictureId": "https://restaurant-api.dicoding.dev/images/medium/34",
+            "price": "Rp 22.000"
+        },
+        {
+            "id": "nhr5rkf5kgg3w6t7vq",
+            "name": "Martabak Manis Keju Coklat",
+            "description": "Martabak manis dengan taburan keju dan cokelat leleh di atas adonan yang lembut dan manis.",
+            "pictureId": "https://restaurant-api.dicoding.dev/images/medium/35",
+            "price": "Rp 18.000"
+        }
+    ]
+}
